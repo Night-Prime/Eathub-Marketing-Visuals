@@ -1,47 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T11:54:44.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="SZ3ElqxaC-aDDKyur2T6" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T21:30:55.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0.4363.59" etag="2-aicNIn0qx7bc9rkHnP" version="18.1.2" type="github">
   <diagram id="cpkMCG1Tx3H4SvAtnxh9" name="Page-1">
-    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2131" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7vBs8ldwE8vfIHMNWxPl-1" target="7vBs8ldwE8vfIHMNWxPl-2">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7vBs8ldwE8vfIHMNWxPl-1" target="7vBs8ldwE8vfIHMNWxPl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7vBs8ldwE8vfIHMNWxPl-1" target="7vBs8ldwE8vfIHMNWxPl-12">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7vBs8ldwE8vfIHMNWxPl-1" target="7vBs8ldwE8vfIHMNWxPl-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-1" value="Why Eathub?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-1" value="Why Eathub?" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="230" y="500" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7vBs8ldwE8vfIHMNWxPl-2" target="7vBs8ldwE8vfIHMNWxPl-3">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7vBs8ldwE8vfIHMNWxPl-2" target="7vBs8ldwE8vfIHMNWxPl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7vBs8ldwE8vfIHMNWxPl-2" target="7vBs8ldwE8vfIHMNWxPl-11">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7vBs8ldwE8vfIHMNWxPl-2" target="7vBs8ldwE8vfIHMNWxPl-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-2" value="How do we go about it?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-2" value="How do we go about it?" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="260" y="330" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7vBs8ldwE8vfIHMNWxPl-3" target="7vBs8ldwE8vfIHMNWxPl-7">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7vBs8ldwE8vfIHMNWxPl-3" target="7vBs8ldwE8vfIHMNWxPl-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-3" value="What are we?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-3" value="What are we?" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="270" y="170" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-7" value="We are Food delivery platform dedicated to serving our users quality meal of their choice." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-7" value="We are Food delivery platform dedicated to serving our users quality meal of their choice." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="170" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-11" value="By Building mobile platforms and employing the services of Online Food Vendors and delivery bike" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-11" value="By Building mobile platforms and employing the services of Online Food Vendors and delivery bike" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="355" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-12" value="&lt;font color=&quot;#ff3333&quot;&gt;because we believe in a future of ease&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-12" value="&lt;font color=&quot;#ff3333&quot;&gt;because we believe in a future of ease&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="570" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-15" value="&lt;font color=&quot;#000000&quot;&gt;What vibe do people pick up when they hear about Eathub?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="690" y="710" width="120" height="90" as="geometry" />
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-15" value="&lt;font color=&quot;#000000&quot;&gt;What vibe do people pick up when they hear about Eathub?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="395" y="790" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7vBs8ldwE8vfIHMNWxPl-16" value="How do we attach Emotions to our marketing ?" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="685" y="830" width="130" height="90" as="geometry" />
+        <mxCell id="7vBs8ldwE8vfIHMNWxPl-16" value="How do we attach Emotions to our marketing ?" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="390" y="910" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
